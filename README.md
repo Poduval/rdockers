@@ -13,4 +13,4 @@ Docker container with R Base image + Rserve package. Use `docker pull rakeshpodu
 
 ## resquisse
 
-Docker container with R Base image + esquisse (depdencies includes ggplot2 & shiny). Once you start running the application visit <http://localhost:8000/> to access the tool. 
+Docker container with R Base image + esquisse (depdencies includes ggplot2 & shiny). Use `docker pull rakeshpoduval/resquisse:latest` to download and `docker run --rm -p 8000:8000 rakeshpoduval/resquisse:latest` to execute. Once it is executed visit <http://localhost:8000/> to access the tool. 
