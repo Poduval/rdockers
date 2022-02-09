@@ -5,11 +5,11 @@ Building docker containers with r services.
 
 ## rplumber
 
-Docker container with R Base image + plumber package
+Docker container with R Base image + plumber package. Use `docker pull rakeshpoduval/rplumber:latest` to download.
 
 ## rserve
 
-Docker container with R Base image + Rserve package
+Docker container with R Base image + Rserve package. Use `docker pull rakeshpoduval/rserve:latest` to download.
 
 ## resquisse
 
