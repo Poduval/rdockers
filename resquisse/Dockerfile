@@ -42,3 +42,5 @@ CMD ["R", "-e", "shiny::runApp('/R', host = '0.0.0.0', port = 8000)"]
 
 # docker tag resquisse:22.2.0 rakeshpoduval/resquisse:latest
 # docker push rakeshpoduval/resquisse:latest
+
+# docker run --rm -p 8000:8000 rakeshpoduval/resquisse:latest
