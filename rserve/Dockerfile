@@ -22,7 +22,7 @@ ENV RSERVE_HOME /opt/rserve
 
 COPY configuration/Rserv.conf /etc/Rserv.conf
 RUN mkdir ${RSERVE_HOME}/lib
-COPY configuration/PreLoad.R ${RSERVE_HOME}/lib/PreLoad.R
+# COPY configuration/PreLoad.R ${RSERVE_HOME}/lib/PreLoad.R
 RUN mkdir ${RSERVE_HOME}/work
 
 ## Expose port
