@@ -1,0 +1,14 @@
+name: resquisse
+title: resquisse
+username:
+account: poduval
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5803007
+bundleId: 5655018
+url: https://poduval.shinyapps.io/resquisse/
+when: 1646715847.86898
+lastSyncTime: 1646715847.86898
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .Rprofile|Dockerfile|renv_0.14.0.tar.gz
