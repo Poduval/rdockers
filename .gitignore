@@ -9,3 +9,4 @@ radiant/.Rprofile
 radiant/renv
 rradiant/resquisse.Rproj
 radiant/radiant.Rproj
+.DS_Store
